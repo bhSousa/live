@@ -1,0 +1,17 @@
+2021-09-01 14:59:52 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "SELECT * FROM JORNADA_TRABALHO 
+INSERT INTO[*] JORNADA_TRABALHO (ID,DESCRICAO) VALUES (1,'bruno')"; SQL statement:
+SELECT * FROM JORNADA_TRABALHO 
+insert into jornada_trabalho (id,descricao) values (1,'bruno') [42000-200]
+2021-09-01 16:37:54 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "SELECT * FROM JORNADA_TRABALHO ID JORNADA_TRABALHO[*]"; SQL statement:
+SELECT * FROM JORNADA_TRABALHO ID JORNADA_TRABALHO [42000-200]
+2021-09-01 16:38:03 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "SELECT * FROM JORNADA_TRABALHO ID JORNADA_TRABALHO[*]"; SQL statement:
+SELECT * FROM JORNADA_TRABALHO ID JORNADA_TRABALHO [42000-200]
+2021-09-01 16:38:04 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "SELECT * FROM JORNADA_TRABALHO ID JORNADA_TRABALHO[*]"; SQL statement:
+SELECT * FROM JORNADA_TRABALHO ID JORNADA_TRABALHO [42000-200]
+2021-09-01 16:38:04 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "SELECT * FROM JORNADA_TRABALHO ID JORNADA_TRABALHO[*]"; SQL statement:
+SELECT * FROM JORNADA_TRABALHO ID JORNADA_TRABALHO [42000-200]
